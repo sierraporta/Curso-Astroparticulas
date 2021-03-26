@@ -1,2 +1,3 @@
-# Mi Curso Astroparticulas
-Curso de Astropartículas y Rayos Cósmicos
+# Mi Curso Astropartículas
+Curso de Astropartículas y Rayos Cósmicos.
+
