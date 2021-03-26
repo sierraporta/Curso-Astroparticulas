@@ -25,9 +25,10 @@ El contenido del curso se desarrollará en tres módulos como se expresan a cont
 
 ### Algunas referencias para seguir:
 
-- Lev I Dorman.Cosmic rays in the Earth’s atmosphere and underground, volume 303. Springer Science & Business Media, 2004.ISBN 978-1-4020-2071-1. doi:10.1007/978-1-4020-2113-8.
-- Peter KF  Grieder.Cosmic  rays  at  Earth.Elsevier,  2001.ISBN  978-0-444-50710-5.doi:https://doi.org/10.1016/B978-044450710-5/50002-6.URLhttps://www.sciencedirect.com/science/article/pii/B9780444507105500026.
-- Maurizio Spurio.Particles and astrophysics. Springer, 2014. ISBN 978-3-319-34539-0. doi:10.1007/978-3-319-08051-2.
-- Ralf Kaiser. Muography: overview and future directions.Philosophical Transactions of the Royal Society A, 377(2137):20180049,2019. URLhttps://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2018.0049.
-- N. Lesparre, D. Gibert, J. Marteau, Y. Déclais, D. Carbone, and E. Galichet.  Geophysical muon imaging: feasibility and limits.Geophysical Journal International, 183(3):1348–1361, 2010. doi:https://doi.org/10.1111/j.1365-246X.2010.04790.x. URLhttps://academic.oup.com/gji/article/183/3/1348/638804?login=true.
+- Lorenzo Bonechi, Raffaello D’Alessandro, and Andrea Giammanco. _Atmospheric muons as an imaging tool_. Reviews in Physics, 5:100038, 2020. https://www.sciencedirect.com/science/article/pii/S2405428320300010.
+- Lev I Dorman. _Cosmic rays in the Earth’s atmosphere and underground_, volume 303. Springer Science & Business Media, 2004. ISBN 978-1-4020-2071-1. doi:10.1007/978-1-4020-2113-8.
+- Peter KF  Grieder. _Cosmic  rays  at  Earth_. Elsevier,  2001. ISBN  978-0-444-50710-5. doi:https://doi.org/10.1016/B978-044450710-5/50002-6. https://www.sciencedirect.com/science/article/pii/B9780444507105500026.
+- Maurizio Spurio. _Particles and astrophysics_. Springer, 2014. ISBN 978-3-319-34539-0. doi:10.1007/978-3-319-08051-2.
+- Ralf Kaiser. _Muography: overview and future directions_. Philosophical Transactions of the Royal Society A, 377(2137):20180049, 2019. https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2018.0049.
+- N. Lesparre, D. Gibert, J. Marteau, Y. Déclais, D. Carbone, and E. Galichet.  _Geophysical muon imaging: feasibility and limits_. Geophysical Journal International, 183(3):1348–1361, 2010. doi:https://doi.org/10.1111/j.1365-246X.2010.04790.x. https://academic.oup.com/gji/article/183/3/1348/638804?login=true.
 
