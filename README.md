@@ -17,7 +17,7 @@ Al finalizar el curso el alumno habrá entendido:
 - Principales resultados experimentales de los últimos años en física de astropartículas, su análisis crítico e implicaciones.
 
 ### Contenido
-El contenido del curso se desarrollará en tres módulos como se expresan a continuación.
+El contenido del curso se desarrollará en tres módulos como se expresan a continuación. (Vea [Programación](Programacion.md))
 
 | Módulo | Título | Contenidos |
 | :-: | :-: | :- |
@@ -52,7 +52,7 @@ La evaluación de este curso se realizará en base a tres tipos de actividades c
 - Algunas asignaciones son de aplicación de los conceptos y otras de discusión de artículos relacionados con los tópicos que estemos desarrollando. Las asignaciones de aplicación buscan reforzar los conceptos del curso en la solución de un problema particular. La discusión de artículos relacionan los conceptos del curso con su utilización específica reportada en la literatura. Las asignaciones de aplicación serán presentadas de dos maneras: un reporte tipo artículo y una presentación de máximo 6 láminas expuestas en 12 minutos. 
 - En la clase 15 y en la 32 se realizará una evaluación oral de temas cubiertos hasta esas fechas. Esta conversación evaluada versará sobre un cuestionario que será enviado 24 horas antes de la actividad. Estas conversaciones evaluadas acopiarán el 20\% restante.
 
-Información de estas asignaciones y la programación está disponible en: [GitHub](Programacion.md)
+Información de estas asignaciones y la programación está disponible en: [Programación](Programacion.md)
 
 ### Algunas referencias para seguir:
 #### Libros:
