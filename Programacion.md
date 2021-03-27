@@ -32,12 +32,12 @@
 |  | 28 | Aplicaciones de la muografía. | |
 | 15 | 29 | Experimentos iniciales. Experimentos de muografía:  MURAVES , MU-RAY, CALICE, TOMUVOL, DIAPHANE, AMIGA, MUTE, etc. | |
 |  | 30 | _**Discusión Asignación 6**_ | 10% |
-| 16 | 31 | _**Discusión Proyecto Final**_ | 20 % |
+| 16 | 31 | _**Discusión Proyecto Final**_ | 20% |
 |  | 32 | _**Evaluación oral de temas cubiertos hasta semana anterior. Evaluación del curso y Retroalimentación grupal**_ | 10% |
 | | | Total ponderación | **100%** |
 
 | Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
+|----------|--------------:|------:|
 | col 1 is |  left-aligned | $1600 |
 | col 2 is |    centered   |   $12 |
 | col 3 is | right-aligned |    $1 |
