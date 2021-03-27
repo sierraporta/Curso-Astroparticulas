@@ -18,6 +18,12 @@ Al finalizar el curso el alumno habrá entendido:
 
 ### Contenido
 El contenido del curso se desarrollará en tres módulos como se expresan a continuación.
+
+| Módulo | Título | Contenidos |
+|----------|:-------------:|
+| 1 |  Una descripción general de la física de las astropartículas. | Rayos cósmicos. Rayos gamma de energías GeV y TeV. Astrofísica de neutrinos. Laboratorios y Detectores para Física de Astropartículas. Experimentos espaciales. Experimentos en la atmósfera. Experimentos terrestres. Laboratorios subterráneos para eventos raros. |
+
+
 - **MÓDULO 1**. Una descripción general de la física de las astropartículas. Rayos cósmicos. Rayos gamma de energías GeV y TeV. Astrofísica de neutrinos. Laboratorios y Detectores para Física de Astropartículas. Experimentos espaciales. Experimentos en la atmósfera. Experimentos terrestres. Laboratorios subterráneos para eventos raros.
 - **MÓDULO 2**. Los rayos cósmicos y nuestra galaxia. El descubrimiento de los rayos cósmicos. Rayos cósmicos y los primeros días de la física de partículas. El descubrimiento de los detectores de positrones y partículas. El movimiento en un campo magnético y la rigidez de las partículas. La identificación del positrón. Flujo diferencial e integral. El espectro energético de los rayos cósmicos primarios. Las propiedades físicas de la galaxia. El campo magnético galáctico. La distribución de la materia interestelar. Rayos cósmicos de baja energía del sol. El efecto del campo geomagnético. Número y densidad energética de los rayos cósmicos. Consideraciones energéticas sobre fuentes de rayos cósmicos.
 - **MÓDULO 3**. Detección directa de rayos cósmicos: protones, núcleos, electrones. Generalidades sobre medidas directas. La técnica calorimétrica. Longitud de la interacción hadrónica y camino libre medio. La longitud de la radiación electromagnética. Longitud de la interacción hadrónica y camino libre medio en la atmósfera. Experimentos con globos. Experimentos de satélite. El Experimento PAMELA. El Experimento AMS-02 en la Estación Espacial Internacional. Abundancia de elementos en el Sistema Solar y en rayos cósmicos. Abundancias cósmicas de elementos. Espectro energético de protones y núcleos.
