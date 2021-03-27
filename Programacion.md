@@ -1,4 +1,4 @@
-## Programa detallado con la distribución horaria y actividades por semanas
+# Programa detallado con la distribución horaria y actividades por semanas
 
 | Semana | Clase | Temas | Ponderación(%) |
 |:--:|:--:|--|:--:|
