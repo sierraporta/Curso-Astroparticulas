@@ -35,3 +35,9 @@
 | 16 | 31 | _**Discusión Proyecto Final**_ | 20% |
 |  | 32 | _**Evaluación oral de temas cubiertos hasta semana anterior. Evaluación del curso y Retroalimentación grupal**_ | 10% |
 | | | Total ponderación :| **100%** |
+
+| Name | Path | Size | Relative Performance | Extra | Columns | Other |
+|:-|:-|:-|:-|:-|:-|:-
+| Temporary | `/path` | 1 PB shared | Fastest | Data is distributed across three datacenters between the multiple campus sites | Shared amongst users | Fast parallel storage for use during computation |
+| Permanent | `/path` | 50 GB | Moderate | Yes, twice a week | - | Fast storage local to each compute node, globally accessible from `/misc/cnXX` |
+| Archival | `/path` | 40 GB | Very slow | Yes, twice a week | Data is replicated between two datacenters on the primary campus | Short term group storage for collaborative work |
