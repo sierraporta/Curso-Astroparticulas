@@ -34,3 +34,4 @@
 |  | 30 | _**Discusión Asignación 6**_ | 10% |
 | 16 | 31 | _**Discusión Proyecto Final**_ | 20 % |
 |  | 32 | _**Evaluación oral de temas cubiertos hasta semana anterior. Evaluación del curso y Retroalimentación grupal**_ | 10% |
+|-|-|-| 100% |
