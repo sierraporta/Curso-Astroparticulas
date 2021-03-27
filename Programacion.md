@@ -1,6 +1,6 @@
 ## Programa detallado con la distribución horaria y actividades por semanas
 
-| Semana | Clase | Temas | Ponderación (%) |
+| Semana | Clase | Temas | Ponderación(%) |
 |-|-|-|-|
 | 1 | 1 | Rayos gamma de energías GeV y TeV. Astrofísica de neutrinos. Laboratorios y Detectores para Física de Astropartículas. |-|
 |  | 2 | Experimentos espaciales. Experimentos en la atmósfera. Experimentos terrestres. Laboratorios subterráneos para eventos raros. |-|
