@@ -20,7 +20,7 @@ Al finalizar el curso el alumno habrá entendido:
 El contenido del curso se desarrollará en tres módulos como se expresan a continuación.
 
 | Módulo | Título | Contenidos |
-|----------|:-------------:|
+| - | - | - |
 | 1 |  Una descripción general de la física de las astropartículas. | Rayos cósmicos. Rayos gamma de energías GeV y TeV. Astrofísica de neutrinos. Laboratorios y Detectores para Física de Astropartículas. Experimentos espaciales. Experimentos en la atmósfera. Experimentos terrestres. Laboratorios subterráneos para eventos raros. |
 
 
