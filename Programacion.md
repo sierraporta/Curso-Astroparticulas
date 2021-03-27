@@ -2,8 +2,8 @@
 
 | Semana | Clase | Temas | Ponderación(%) |
 |:--:|:--:|--|:--:|
-| 1 | 1 | Rayos gamma de energías GeV y TeV. Astrofísica de neutrinos. Laboratorios y Detectores para Física de Astropartículas. | \
-|  || 2 | Experimentos espaciales. Experimentos en la atmósfera. Experimentos terrestres. Laboratorios subterráneos para eventos raros. | |
+| 1 | 1 | Rayos gamma de energías GeV y TeV. Astrofísica de neutrinos. Laboratorios y Detectores para Física de Astropartículas. | |
+|^^  || 2 | Experimentos espaciales. Experimentos en la atmósfera. Experimentos terrestres. Laboratorios subterráneos para eventos raros. | |
 | 2 | 3 | El descubrimiento de los rayos cósmicos. Rayos cósmicos y los primeros días de la física de partículas. El descubrimiento de los detectores de positrones y partículas.  | |
 |  | 4 | El movimiento en un campo magnético y la rigidez de las partículas. La identificación del positrón. | |
 | 3 | 5 | Flujo diferencial e integral. El espectro energético de los rayos cósmicos primarios. Las propiedades físicas de la galaxia.  | |
