@@ -1,7 +1,7 @@
 ## Programa detallado con la distribución horaria y actividades por semanas
 
 | Semana | Clase | Temas | Ponderación(%) |
-|--|--|--|--:|
+|--|--|--|--|
 | 1 | 1 | Rayos gamma de energías GeV y TeV. Astrofísica de neutrinos. Laboratorios y Detectores para Física de Astropartículas. | |
 |  | 2 | Experimentos espaciales. Experimentos en la atmósfera. Experimentos terrestres. Laboratorios subterráneos para eventos raros. | |
 | 2 | 3 | El descubrimiento de los rayos cósmicos. Rayos cósmicos y los primeros días de la física de partículas. El descubrimiento de los detectores de positrones y partículas.  | |
@@ -35,9 +35,3 @@
 | 16 | 31 | _**Discusión Proyecto Final**_ | 20% |
 |  | 32 | _**Evaluación oral de temas cubiertos hasta semana anterior. Evaluación del curso y Retroalimentación grupal**_ | 10% |
 | | | Total ponderación | **100%** |
-
-| Tables   |      Are      |  Cool |
-|----------|--------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
