@@ -52,6 +52,8 @@ La evaluación de este curso se realizará en base a tres tipos de actividades c
 - Algunas asignaciones son de aplicación de los conceptos y otras de discusión de artículos relacionados con los tópicos que estemos desarrollando. Las asignaciones de aplicación buscan reforzar los conceptos del curso en la solución de un problema particular. La discusión de artículos relacionan los conceptos del curso con su utilización específica reportada en la literatura. Las asignaciones de aplicación serán presentadas de dos maneras: un reporte tipo artículo y una presentación de máximo 6 láminas expuestas en 12 minutos. 
 - En la clase 15 y en la 32 se realizará una evaluación oral de temas cubiertos hasta esas fechas. Esta conversación evaluada versará sobre un cuestionario que será enviado 24 horas antes de la actividad. Estas conversaciones evaluadas acopiarán el 20\% restante.
 
+Información de estas asignaciones y la programación está disponible en: [GitHub]()
+
 ### Algunas referencias para seguir:
 #### Libros:
 - Lev I Dorman. _Cosmic rays in the Earth’s atmosphere and underground_, volume 303. Springer Science & Business Media, 2004. ISBN 978-1-4020-2071-1. [https://doi.org/10.1007/978-1-4020-2113-8].
