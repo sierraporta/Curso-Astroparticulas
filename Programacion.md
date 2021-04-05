@@ -12,7 +12,7 @@
 |  | 8 | El efecto del campo geomagnético. Número y densidad energética de los rayos cósmicos. Consideraciones energéticas sobre fuentes de rayos cósmicos. | |
 | 5 | 9 | Generalidades sobre medidas directas. La técnica calorimétrica. Longitud de la interacción hadrónica y camino libre medio.  | |
 |  | 10 | _**Discusión Asignación 2**_ | 10% |
-| 6 | 11 | La longitud de la radiación electromagnética. Longitud de la interacción hadrónica y camino libre medio en la atmósfera. | |
+| 6 | 11 | La longitud de la radiación electromagnética. Longitud de la interacción hadrónica y camino libre medio en la atmósfera. | [Interaccion_particulas_radiacion_materia.pdf](Presentaciones/Interaccion_particulas_radiacion_materia.pdf) [Interaccion_particulas_radiacion_materia2.pdf](Presentaciones/Interaccion_particulas_radiacion_materia2.pdf) |
 |  | 12 | Experimentos con globos. Experimentos de satélite. El Experimento PAMELA. El Experimento AMS-02 en la Estación Espacial Internacional. | |
 | 7 | 13 | Abundancia de elementos en el Sistema Solar y en rayos cósmicos. Abundancias cósmicas de elementos.  | |
 |  | 14 | Espectro energético de protones y núcleos. | [Rayos_cosmicos1.pdf](Presentaciones/Rayos_cosmicos1.pdf) |
