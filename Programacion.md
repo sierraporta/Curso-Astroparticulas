@@ -15,7 +15,7 @@
 | 6 | 11 | La longitud de la radiación electromagnética. Longitud de la interacción hadrónica y camino libre medio en la atmósfera. | |
 |  | 12 | Experimentos con globos. Experimentos de satélite. El Experimento PAMELA. El Experimento AMS-02 en la Estación Espacial Internacional. | |
 | 7 | 13 | Abundancia de elementos en el Sistema Solar y en rayos cósmicos. Abundancias cósmicas de elementos.  | |
-|  | 14 | Espectro energético de protones y núcleos. | |
+|  | 14 | Espectro energético de protones y núcleos. | [prese](Presentaciones/Rayos_cosmicos1.pdf) |
 | 8 | 15 | _**Evaluación oral de temas cubiertos hasta semana anterior.**_ | 10% |
 |  | 16 | _**Discusión Asignación 3**_ | 10% |
 | 9 | 17 | Introducción e información histórica. La estructura de la atmósfera. La cascada electromagnética (EM).  | |
