@@ -15,7 +15,7 @@
 | 6 | 11 | La longitud de la radiación electromagnética. Longitud de la interacción hadrónica y camino libre medio en la atmósfera. | |
 |  | 12 | Experimentos con globos. Experimentos de satélite. El Experimento PAMELA. El Experimento AMS-02 en la Estación Espacial Internacional. | |
 | 7 | 13 | Abundancia de elementos en el Sistema Solar y en rayos cósmicos. Abundancias cósmicas de elementos.  | |
-|  | 14 | Espectro energético de protones y núcleos. | [prese](Presentaciones/Rayos_cosmicos1.pdf) |
+|  | 14 | Espectro energético de protones y núcleos. | [Rayos_cosmicos1.pdf](Presentaciones/Rayos_cosmicos1.pdf) |
 | 8 | 15 | _**Evaluación oral de temas cubiertos hasta semana anterior.**_ | 10% |
 |  | 16 | _**Discusión Asignación 3**_ | 10% |
 | 9 | 17 | Introducción e información histórica. La estructura de la atmósfera. La cascada electromagnética (EM).  | |
@@ -23,12 +23,12 @@
 | 10 | 19 | La componente muónica de la cascada iniciada por un protón. La componente EM en una cascada iniciada por protones. Profundidad máxima de la cascada para un protón.  | |
 |  | 20 | Cascadas inducidas por núcleos: el modelo de superposición. Un ejemplo de juguete de un cascada de rayos cósmicos (CRC).  | |
 | 11 | 21 | _**Discusión Asignación 4**_ | 10% |
-|  | 22 | Algunos experimentos de CRC. Luz Cherenkov producida por CRC.  | |
+|  | 22 | Algunos experimentos de CRC. Luz Cherenkov producida por CRC.  | [Efecto_Cherenkov.pdf](Presentaciones/Efecto_Cherenkov.pdf) |
 | 12 | 23 | El perfil temporal de las cascadas. La dirección de llegada de los rayos cósmicos. | |
 |  | 24 | Nucleones en la atmósfera. Mesones secundarios en la atmósfera. Muones y neutrinos de la desintegración de mesones cargados.  | |
 | 13 | 25 | _**Discusión Asignación 5**_ | 10% |
 |  | 26 | El flujo de neutrinos atmosféricos convencionales. El flujo de muones y el flujo de partículas a nivel del mar. Mediciones de muones a nivel del mar.  | |
-| 14 | 27 | Muones subterráneos. La relación profundidad-intensidad. Características de los muones subterráneos/submarinos.  | |
+| 14 | 27 | Muones subterráneos. La relación profundidad-intensidad. Características de los muones subterráneos/submarinos.  | [Interacion_electromagnetica_materia.pdf](Presentaciones/Interacion_electromagnetica_materia.pdf) |
 |  | 28 | Aplicaciones de la muografía. | |
 | 15 | 29 | Experimentos iniciales. Experimentos de muografía:  MURAVES , MU-RAY, CALICE, TOMUVOL, DIAPHANE, AMIGA, MUTE, etc. | |
 |  | 30 | _**Discusión Asignación 6**_ | 10% |
